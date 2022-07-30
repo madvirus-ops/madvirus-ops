@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning django rest framework
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with react
-- 💬 Ask me about wordpress and django
+- 💬 Ask me about wordpress or django
 - 📫 How to reach me: edwinayabie1@gmail.com ....<a href= "https://wa.link/cp8b72">+2349070073152</a>
 
 
