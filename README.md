@@ -18,5 +18,5 @@
 
 
 
-## visitor count ---
-[![](https://visitcount.itsvg.in/api?id=madvirus-ops&icon=1&color=0)](https://visitcount.itsvg.in)
+## visitor count 
+![Visitor Count](https://profile-counter.glitch.me/madvirus-ops/count.svg)
