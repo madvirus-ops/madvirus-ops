@@ -14,9 +14,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=madvirus-ops&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
+⁴
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=madvirus-ops&icon=1&color=0)](https://visitcount.itsvg.in)
