@@ -14,7 +14,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=madvirus-ops&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
-⁴
+
 
 
 
