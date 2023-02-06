@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Fintech App <br>👯 I’m looking to collaborate on anything <br>🤝 I’m looking for help with distributed system and microservices <br>🌱 I’m currently learning python/fastapi/djano <br>💬 Ask me about Django/FastAPI <br>⚡ Fun fact : I like movies and musics
+🔭 I’m currently working on a Fintech App <br>👯 I’m looking to collaborate on anything <br>🤝 I’m looking for help with distributed system and microservices <br>🌱 I’m currently learning Python/FastAPI/Django[DRF] <br>💬 Ask me about Django/FastAPI <br>⚡ Fun fact : I like movies and musics
 
 
 ## 🌐 Socials:
