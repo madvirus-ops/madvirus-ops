@@ -15,7 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=madvirus-ops&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
 
-
+## Wakatime
+[![wakatime](https://wakatime.com/badge/user/30afd768-59dc-4441-9443-f270c48f74f8.svg)](https://wakatime.com/@30afd768-59dc-4441-9443-f270c48f74f8)
 
 
 ## visitor count 
