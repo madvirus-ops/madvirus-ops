@@ -1,6 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on a Fintech App, building a python API wrapper <br>👯 I’m looking to collaborate on anything <br>🤝 I’m looking for help with distributed system and microservices <br>🌱 I’m currently learning Python/FastAPI/Django[DRF] <br>💬 Ask me about Django/FastAPI <br>⚡ Fun fact : I like movies and musics
+<h1 align="center">Hi 👋, I'm Edwin Ayabie</h1>
+<h3 align="center">A passionate Backend Software Engineer with a commitment to continuous learning and improvement</h3>
+<p align="center"> <a href="https://twitter.com/1madvirus" target="blank"><img src="https://img.shields.io/twitter/follow/1madvirus?logo=twitter&style=for-the-badge" alt="1madvirus" /></a> </p>
+## 💫 About Me:
 
+- 🔭 I’m currently working on [maplerad-python](https://github.com/madvirus-ops/maplerad-python)
+
+- 🌱 I’m currently learning **Go, FastAPI**
+
+- 👯 I’m looking to collaborate on **anything python related**
+
+- 🤝 I’m looking for help with **getting a job**
+
+- 📝 I regularly write articles on [https://madvirus.hashnode.dev](https://madvirus.hashnode.dev)
+
+- 💬 Ask me about **Django,FastAPI,Typer**
+
+- 📫 How to reach me **edwinayabie1@gmail.com**
+
+- ⚡ Fun fact **I suck at gaming**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/madvirus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1madvirus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madvirus) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@madvirus ) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://madvirus.hashnode.dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/1madvirus)
