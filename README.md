@@ -10,7 +10,6 @@
 
 - 👯 I’m looking to collaborate on **anything python related**
 
-- 🤝 I’m looking for help with **getting a job**
 
 - 📝 I regularly write articles on [https://madvirus.hashnode.dev](https://madvirus.hashnode.dev)
 
