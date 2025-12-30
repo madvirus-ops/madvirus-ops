@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently working on [maplerad-python](https://github.com/madvirus-ops/maplerad-python)
+- 🔭 I’m currently working on [maplerad-python](https://github.com/madvirus-ops/maplerad-python), [facpy](https://github.com/madvirus-ops/facpy)
 
 - 🌱 I’m currently learning **Go, Fastapi**
 
