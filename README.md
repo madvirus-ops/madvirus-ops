@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin Ayabie</h1>
-<h3 align="center">A passionate Backend Software Engineer with a commitment to continuous learning and improvement</h3>
+<h3 align="center"> Backend Software Engineer with a commitment to continuous learning and improvement, most of the time</h3>
 <p align="center"> <a href="https://twitter.com/1madvirus" target="blank"><img src="https://img.shields.io/twitter/follow/1madvirus?logo=twitter&style=for-the-badge" alt="1madvirus" /></a> </p>
 
 ## 💫 About Me:
